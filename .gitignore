@@ -1,7 +1,7 @@
 /.idea
 /node_modules
 /coverage
-/lib
+# /lib
 /.work
 .eslintcache
 .env
